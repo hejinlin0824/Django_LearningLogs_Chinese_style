@@ -1,0 +1,2 @@
+# Django_LearningLogs_Chinese_style
+这是我跟着教程复现的Django基础网站，后端是自己跟着写的，前端AI写的，国风的感觉，大家可以一起学习一起进步。
